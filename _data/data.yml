@@ -13,10 +13,10 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: luis.jauregui.fl@gmail.com
-  phone: 3121203328
+  phone: 312-120-33-28
   website: # No agregar http://
-  linkedin: https://www.linkedin.com/in/luis-angel-jauregui-flores-033337172
-  github: https://github.com/ljau
+  linkedin: Luis Angel Jauregui Flores
+  github: ljau
 
 
   # Actualiza según los idiomas y niveles que tienes. Agrega o Elimina según sea necesario.
@@ -49,7 +49,7 @@ sidebar:
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: 
+  summary: |
     A persistent and adaptable telematics engineer that has been working in IT as a Unix systems admin giving the best every day to provide a good and effective service to the customer. 
     Also I am deeply interested in programming so I have taken side projects with friends as a hobby to keep improving and practicing this hability.
 
@@ -58,7 +58,7 @@ educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
     time: 2015 - 2019
-    details: Graduated
+    details: |
       Telematics engineering
 
   
@@ -67,31 +67,34 @@ experiences:
   - role: System Administrator 
     time: 2019 - Present
     company: TATA CONSULTANCY SERVICES/Unix 
-    details: Unix System Administrator
+    details: |
       -Configuration, monitoring and maintenance of Unix operating systems on physical and virtual machines.
       -Use of web applications for monitoring alerts and management of servers and users information.
 
   - role: Videogame Developer
-    time: 2021
+    time: (2021)
     company: Banshees Veil team
-    details: Stay At Home
+    details: |
+      -Stay At Home
       -(C#-Unity5-Windows-Android)
       -Design and development of an educational videogame.
       -Winner of the regional contest Games 4 empowerment (4th edition) in cathegory of Best Contribution
       -Released for Windows 10 and Android platforms.
 
   - role: Wearable device designer and developer
-    time: 2018
+    time: (2018)
     company: (Academic project)
-    details: Remote vital signs monitoring device for the healthcare of elderly people
+    details: |
+      -Remote vital signs monitoring device for the healthcare of elderly people
       -Design and development of an educational videogame.
       -Winner of the regional contest Games 4 empowerment (4th edition) in cathegory of Best Contribution
       -Released for Windows 10 and Android platforms.
 
   - role: Videogame Developer
-    time: 2018
+    time: (2018)
     company: Banshees Veil team
-    details: Wood of War 
+    details: |
+      -Wood of War 
       -Design and development of an ubiquitous videogame.
       -Winner of the regional contest Games 4 empowerment (1st edition)
       -Participated in the national contest National video game contest mx 2018
