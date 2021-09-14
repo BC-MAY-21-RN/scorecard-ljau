@@ -49,7 +49,7 @@ sidebar:
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: |
+  summary: 
     A persistent and adaptable telematics engineer that has been working in IT as a Unix systems admin giving the best every day to provide a good and effective service to the customer. 
     Also I am deeply interested in programming so I have taken side projects with friends as a hobby to keep improving and practicing this hability.
 
@@ -58,43 +58,43 @@ educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
     time: 2015 - 2019
-    details: | 
+    details: Graduated
       Telematics engineering
 
   
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Unix System Administrator 
+  - role: System Administrator 
     time: 2019 - Present
     company: TATA CONSULTANCY SERVICES/Unix 
-    details: | 
+    details: Unix System Administrator
       -Configuration, monitoring and maintenance of Unix operating systems on physical and virtual machines.
       -Use of web applications for monitoring alerts and management of servers and users information.
 
   - role: Videogame Developer
     time: 2021
-    company: Banshee's Veil team
-    details: | Stay At Home
+    company: Banshees Veil team
+    details: Stay At Home
       -(C#-Unity5-Windows-Android)
       -Design and development of an educational videogame.
-      -Winner of the regional contest "Games 4 empowerment (4th edition)" in cathegory of "Best Contribution" 
+      -Winner of the regional contest Games 4 empowerment (4th edition) in cathegory of Best Contribution
       -Released for Windows 10 and Android platforms.
 
   - role: Wearable device designer and developer
     time: 2018
     company: (Academic project)
-    details: | Remote vital signs monitoring device for the healthcare of elderly people
+    details: Remote vital signs monitoring device for the healthcare of elderly people
       -Design and development of an educational videogame.
-      -Winner of the regional contest "Games 4 empowerment (4th edition)" in cathegory of "Best Contribution" 
+      -Winner of the regional contest Games 4 empowerment (4th edition) in cathegory of Best Contribution
       -Released for Windows 10 and Android platforms.
 
   - role: Videogame Developer
     time: 2018
-    company: Banshee's Veil team
-    details: | Wood of War 
+    company: Banshees Veil team
+    details: Wood of War 
       -Design and development of an ubiquitous videogame.
-      -Winner of the regional contest "Games 4 empowerment (1st edition)"
-      -Participated in the national contest "National video game contest mx 2018"
+      -Winner of the regional contest Games 4 empowerment (1st edition)
+      -Participated in the national contest National video game contest mx 2018
 
       
 # Registra aquí tus habilidades técnicas, para level utiliza:
