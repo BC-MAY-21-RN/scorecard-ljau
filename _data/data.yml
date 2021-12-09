@@ -64,8 +64,14 @@ educationcomplete:
   
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+  - role: BrightCoder
+    time: 2021 Aug - 2021 Dec
+    company: BrightCoders Academy
+    details: |
+      React Native Mobile Developer training.
+      
   - role: System Administrator 
-    time: 2019 - Present
+    time: 2019 - Current
     company: TATA CONSULTANCY SERVICES/Unix 
     details: |
       -Configuration, monitoring and maintenance of Unix operating systems on physical and virtual machines.
@@ -110,26 +116,43 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
+    - name: JavaScript
+      level: 60%
+      
+    - name: React Native
+      level: 60%
+    
+    - name: React JS
+      level: 40%  
+    
+    - name: Firebase
+      level: 50%
+      
+    - name: C#
+      level: 60%
+    
+    - name: Git/Github
+      level: 50%
+      
+    - name: Unity5
+      level: 40%
+      
+    - name: HTML
+      level: 40% 
+      
+    - name: CSS
+      level: 40%
+      
     - name: Putty
       level: 60%
 
     - name: ServiceNow
       level: 60%
 
-    - name: C#
-      level: 40%
-
-    - name: Unity5
-      level: 40%
-
     - name: Office tools
       level: 40%
-      
-    - name: HTML5
-      level: 40%      
+           
 
-    - name: React
-      level: 20%  
       
 
 # NO MODIFICAR
