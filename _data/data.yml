@@ -15,7 +15,7 @@ sidebar:
   email: luis.jauregui.fl@gmail.com
   phone: 312-120-33-28
   website: # No agregar http://
-  linkedin: Luis Angel Jauregui Flores
+  linkedin: luis-angel-jauregui
   github: ljau
 
 
@@ -50,25 +50,34 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    A persistent and adaptable telematics engineer that has been working in IT as a Unix systems admin giving the best every day to provide a good and effective service to the customer. 
-    Also I am deeply interested in programming so I have taken side projects with friends as a hobby to keep improving and practicing this hability.
+    Telematics Engineer deeply interested in applications development, currently working on Unix Systems and React Front-end freelance.
+    Also going on some personal projects looking to get more involved in the development area, as I have been working for some years in a Support branch and got fascinated about dev field, so I would rather to continue my career in this area.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Bachelor Degree
+  - degree: BrightCoder
+    university: BrightCoders Academy
+    time: 2021 Aug - 2021 Dec
+    details: |
+      -Intensive training program for Apps development using React Native, Firebase, Git & Github.
+      -Agile project management and development.
+      -Applying best programming practices, clean code, remote teamwork and collaboration.
+
+educationcomplete:
+  - degree: Bachelors Degree
     university: Universidad de Colima
     time: 2015 - 2019
     details: |
       Telematics engineering
-
   
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: BrightCoder
-    time: 2021 Aug - 2021 Dec
-    company: BrightCoders Academy
+  - role: Front-end freelance
+    time: 2021 - Current
+    company: Banshees Veil
     details: |
-      React Native Mobile Developer training.
+      -Development of Mobile applications using React Native, Firebase & Node.js 
+      -Development of Web applications using React.js, Next.js, Node.js and express.js      
       
   - role: System Administrator 
     time: 2019 - Current
@@ -83,16 +92,6 @@ experiences:
     details: |
       -Stay At Home
       -(C#-Unity5-Windows-Android)
-      -Design and development of an educational videogame.
-      -Winner of the regional contest Games 4 empowerment (4th edition) in cathegory of Best Contribution
-      -Released for Windows 10 and Android platforms.
-
-  - role: Wearable device designer and developer
-    time: (2018)
-    company: (Academic project)
-    details: |
-      -Remote vital signs monitoring device for the healthcare of elderly people
-      -Design and development of an educational videogame.
       -Winner of the regional contest Games 4 empowerment (4th edition) in cathegory of Best Contribution
       -Released for Windows 10 and Android platforms.
 
@@ -101,7 +100,7 @@ experiences:
     company: Banshees Veil team
     details: |
       -Wood of War 
-      -Design and development of an ubiquitous videogame.
+      -(C#-Unity5-Android)
       -Winner of the regional contest Games 4 empowerment (1st edition)
       -Participated in the national contest National video game contest mx 2018
 
@@ -132,7 +131,7 @@ skills:
       level: 60%
     
     - name: Git/Github
-      level: 50%
+      level: 60%
       
     - name: Unity5
       level: 40%
