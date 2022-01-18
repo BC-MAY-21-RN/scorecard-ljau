@@ -54,14 +54,6 @@ career-profile:
     Also going on some personal projects looking to get more involved in the development area, as I have been working for some years in a Support branch and got fascinated about dev field, so I would rather to continue my career in this area.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
-educationcomplete:
-  - degree: BrightCoder
-    university: BrightCoders Academy
-    time: 2021 Aug - 2021 Dec
-    details: |
-      -Intensive training program for Apps development using React Native, Firebase, Git & Github.
-      -Agile project management and development.
-      -Applying best programming practices, clean code, remote teamwork and collaboration.
 
 educationcomplete:
   - degree: Bachelors Degree
@@ -72,6 +64,14 @@ educationcomplete:
   
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+  - role: BrightCoder
+    time: 2021 Aug - 2021 Dec
+    company: BrightCoders Academy
+    details: |
+      -Intensive training program for Apps development using React Native, Firebase, Git & Github.
+      -Agile project management and development.
+      -Applying best programming practices, clean code, remote teamwork and collaboration.
+      
   - role: Front-end freelance
     time: 2021 - Current
     company: Banshees Veil
